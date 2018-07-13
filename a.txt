@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 not test
+=======
+/d/Git/test/learngit
+>>>>>>> 854b065aa7d45cf15d9f13e5b8d1ea96c36a2de9
+
+
+end
